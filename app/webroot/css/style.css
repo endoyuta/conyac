@@ -1,0 +1,52 @@
+body{
+    background-color: #eee;
+}
+
+a, a:hover,a:focus{
+    color:#09c;
+}
+
+h2{
+    font-size:23px;
+    font-weight:bold;
+    color:#c21;
+    margin-bottom:20px;
+}
+h3{
+    color: #fff;
+    font-size:18px;
+    font-weight:bold;
+    padding:5px;
+    background-color: #c21;
+    margin:0;
+}
+h4{
+    color: #fff;
+    font-size:15px;
+    font-weight:bold;
+    padding:5px;
+    background-color: #ff7060;
+    margin:0;
+}
+
+.box{
+    background-color: #fff;
+}
+
+.error-message{
+    color: red;
+}
+
+.table th{
+    background-color: #eee;
+    text-align:center;
+}
+
+.footer{
+    font-size:14px;
+    min-height:200px;
+    margin-top:50px;
+}
+.footer a, .footer a:hover{
+    color: #000;
+}

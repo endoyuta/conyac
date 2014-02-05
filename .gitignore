@@ -1,0 +1,5 @@
+.idea/*
+app/tmp/cache/models/myapp*
+app/tmp/cache/persistent/myapp*
+app/tmp/logs/error.log
+app/tmp/logs/debug.log

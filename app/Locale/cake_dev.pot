@@ -1,0 +1,44 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-12-23 20:34+0900\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/Logibake/Console/Command/Task/PluginTask.php:183
+msgid "%s modified"
+msgstr ""
+
+#: Plugin/Logibake/Console/Command/Task/TestTask.php:324
+msgid "Invalid object type."
+msgstr ""
+
+#: Plugin/Logibake/Console/Command/Task/TestTask.php:343
+msgid "Invalid type name"
+msgstr ""
+
+#: Plugin/Logibake/Model/CakeSchema.php:617
+msgid "Schema generation error: invalid column type %s for %s.%s does not exist in DBO"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1578
+msgid "Missing field name for FormHelper::%s"
+msgstr ""
+
+#: View/Layouts/error.ctp:20
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
